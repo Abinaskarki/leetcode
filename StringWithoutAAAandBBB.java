@@ -14,8 +14,6 @@ public class StringWithoutAAAandBBB {
         String a = strWithout3a3b(4,1);
         System.out.println(a);
         System.out.println(strWithout3a3b(1,1));
-        
-        
     }
     
     public static String strWithout3a3b(int A, int B) {
@@ -37,7 +35,6 @@ public class StringWithoutAAAandBBB {
            } 
        }
        
-        
         return str;
     }
 }

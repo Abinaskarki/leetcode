@@ -19,7 +19,7 @@ public class longestCommonPrefix {
         System.out.println(longCommonPrefix(a,findMin(a)));
         System.out.println(longCommonPrefix(b,findMin(b)));
         System.out.println(longCommonPrefix(c,findMin(c)));
-       // System.out.println(longCommonPrefix(d,findMin(d)));
+       //System.out.println(longCommonPrefix(d,findMin(d)));
     }
 
     private static String longCommonPrefix(String[] a,String min) {
